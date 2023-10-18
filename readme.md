@@ -9,8 +9,7 @@ Reads necessary variables from the provided configuration JSON file and returns 
 4. Copy schema from [below](#configuration-json-schema)
 5. Fill in your values
 6. Open `Command Prompt` in your folder from step 2
-7. Execute generation with the required configuration:  
-`JwtGenerator.exe config.json`
+7. Execute generation with the required configuration: `JwtGenerator.exe config.json`
 
 
 ## Configuration JSON schema
